@@ -1,4 +1,4 @@
-### Hi there 👋, I'm 1ommy
+### Hi there 👋, I'm Ivan
 I'm 16 years old and I'm from Russia. 
 
 Skills: React JS / Redux / TypeScript / PHP / Laravel / HTML / CSS
