@@ -4,7 +4,7 @@ I'm 17 years old and I'm from Russia.
 Skills: React JS / Redux / TypeScript / PHP / Laravel / HTML / CSS
 
 - 🔭 I’m currently working on own code editor 
-- 🌱 I’m currently learning Java & Python
+- 🌱 I’m currently learning Java 
 - 🤔 I’m looking for help with life
 - 💬 Ask me about my life 
 
