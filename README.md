@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ivan
 I'm 17 years old and I'm from Russia. 
 
-Skills: React JS / Redux / TypeScript / PHP / Laravel / HTML / CSS
+Skills: Vue JS / TypeScript / Spring
 
 - 🔭 I’m currently working on own code editor 
 - 🌱 I’m currently learning Java 
