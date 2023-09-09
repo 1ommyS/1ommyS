@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ivan
-I'm 18 years old and I'm from Russia. Right now I'm studying in Moscow Aviation Institute  
+I'm 19 years old and I'm from Russia. Right now I'm studying in Moscow Aviation Institute  
 
-Skills: Spring / Laravel / Vue.js
+Skills: Spring
 
 - 🔭 I’m currently working on own code editor 
 - 🌱 I’m currently learning Java 
