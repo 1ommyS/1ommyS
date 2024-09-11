@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ivan
-I'm 19 years old and I'm from Russia. Right now I'm studying in Moscow Aviation Institute  
+I'm 20 years old and I'm from Russia. Right now I'm studying in Moscow Aviation Institute  
 
 Skills: Spring
 
